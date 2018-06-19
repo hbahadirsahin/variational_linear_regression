@@ -2,8 +2,8 @@ import numpy as np
 import tensorflow as tf
 import pickle
 import matplotlib.pyplot as plt
-from CS558Assignment1.varlinreg import VarLinReg
-from CS558Assignment1.varlinregtf import VarLinRegTf
+from varlinreg import VarLinReg
+from varlinregtf import VarLinRegTf
 
 # load data
 
